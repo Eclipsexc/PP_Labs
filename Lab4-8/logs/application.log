@@ -1,0 +1,168 @@
+2024-11-24 16:02:35 [main] INFO  Display.Main - Початок програми
+2024-11-24 16:02:44 [main] INFO  C.DisplayAvailableVegetablesCommand - Список доступних овочів виведено в консоль.
+2024-11-24 16:02:57 [main] INFO  C.DisplayAvailableVegetablesCommand - Список доступних овочів виведено в консоль.
+2024-11-24 16:03:05 [main] INFO  C.DisplayAvailableVegetablesCommand - Список доступних овочів виведено в консоль.
+2024-11-24 16:03:11 [main] INFO  C.DisplayAvailableVegetablesCommand - Список доступних овочів виведено в консоль.
+2024-11-24 16:03:18 [main] INFO  Commands.MakeSaladCommand - Створено салат з наступними інградієнтами: Брюсельська капуста - 34.0 грам; .
+2024-11-24 16:03:37 [main] ERROR C.AnalyzeNutritionalContentCommand - Критична помилка у програмі
+java.lang.NumberFormatException: For input string: ""
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Integer.parseInt(Integer.java:565)
+	at java.base/java.lang.Integer.parseInt(Integer.java:685)
+	at Commands.AnalyzeNutritionalContentCommand.execute(AnalyzeNutritionalContentCommand.java:37)
+	at Display.ConsoleMenu.executeCommand(ConsoleMenu.java:40)
+	at Display.ConsoleMenu.run(ConsoleMenu.java:76)
+	at Display.Main.main(Main.java:39)
+2024-11-24 16:03:51 [main] INFO  Display.Main - Кінець програми
+2024-11-24 16:20:11 [main] INFO  Display.Main - Початок програми
+2024-11-24 16:20:23 [main] INFO  Display.Main - Кінець програми
+2024-11-24 16:40:01 [main] ERROR Display.Main - Критична помилка у програмі
+java.lang.Exception: tst
+	at Display.Main.main(Main.java:19)
+2024-11-24 16:40:01 [main] INFO  Display.Main - Початок програми
+2024-11-24 17:07:34 [main] INFO  Display.Main - Початок програми
+2024-11-24 17:07:44 [main] INFO  Display.Main - Початок програми
+2024-11-24 17:09:11 [main] ERROR Display.Main - Критична помилка у програмі
+java.lang.Exception: tst
+	at Display.Main.main(Main.java:18)
+2024-11-24 17:09:11 [main] INFO  Display.Main - Початок програми
+2024-11-24 17:09:19 [main] INFO  Display.Main - Кінець програми
+2024-11-24 17:27:23 [main] ERROR Display.Main - Критична помилка у програмі
+java.lang.Exception: tst
+	at Display.Main.main(Main.java:18)
+2024-11-24 17:27:23 [main] INFO  Display.Main - Початок програми
+2024-11-24 17:27:26 [main] INFO  Display.Main - Кінець програми
+2024-11-24 17:27:46 [main] ERROR Display.Main - Критична помилка у програмі
+java.lang.Exception: tst
+	at Display.Main.main(Main.java:18)
+2024-11-24 17:27:46 [main] INFO  Display.Main - Початок програми
+2024-11-24 17:27:53 [main] INFO  Display.Main - Кінець програми
+2024-11-24 17:33:06 [main] ERROR Display.Main - Критична помилка у програмі
+java.lang.Exception: tst
+	at Display.Main.main(Main.java:18)
+2024-11-24 17:33:52 [main] ERROR Display.Main - Критична помилка у програмі
+java.lang.Exception: tst
+	at Display.Main.main(Main.java:18)
+2024-11-24 17:48:57 [main] ERROR Display.Main - Критична помилка у програмі
+java.lang.Exception: tst
+	at Display.Main.main(Main.java:18)
+2024-11-24 17:48:57 [main] INFO  Display.Main - Початок програми
+2024-11-24 17:48:58 [main] INFO  Display.Main - Кінець програми
+2024-11-24 17:54:04 [main] ERROR Display.Main - Критична помилка у програмі
+java.lang.Exception: tst
+	at Display.Main.main(Main.java:18)
+2024-11-24 17:54:22 [main] ERROR Display.Main - Критична помилка у програмі
+java.lang.Exception: tst
+	at Display.Main.main(Main.java:18)
+2024-11-24 17:56:03 [main] ERROR Display.Main - Критична помилка у програмі
+java.lang.Exception: tst
+	at Display.Main.main(Main.java:18)
+2024-11-24 17:56:03 [main] INFO  Display.Main - Початок програми
+2024-11-24 17:56:09 [main] INFO  Display.Main - Кінець програми
+2024-11-24 17:57:36 [main] ERROR Display.Main - Критична помилка у програмі
+java.lang.Exception: tst
+	at Display.Main.main(Main.java:18)
+2024-11-24 17:57:36 [main] INFO  Display.Main - Початок програми
+2024-11-24 17:57:39 [main] INFO  Display.Main - Кінець програми
+2024-11-24 17:58:03 [main] ERROR Display.Main - Критична помилка у програмі
+java.lang.Exception: tst
+	at Display.Main.main(Main.java:18)
+2024-11-24 17:58:03 [main] INFO  Display.Main - Початок програми
+2024-11-24 17:58:08 [main] INFO  Display.Main - Кінець програми
+2024-11-24 18:00:55 [main] ERROR Display.Main - Критична помилка у програмі
+java.lang.Exception: tst
+	at Display.Main.main(Main.java:18)
+2024-11-24 18:00:55 [main] INFO  Display.Main - Початок програми
+2024-11-24 18:01:45 [main] ERROR Display.Main - Test email
+java.lang.RuntimeException: SMTP Test Exception
+	at Display.Main.main(Main.java:20)
+2024-11-24 18:01:45 [main] INFO  Display.Main - Початок програми
+2024-11-24 18:08:11 [main] ERROR Display.Main - Test email
+java.lang.RuntimeException: SMTP Test Exception
+	at Display.Main.main(Main.java:20)
+2024-11-24 18:08:11 [main] INFO  Display.Main - Початок програми
+2024-11-24 18:08:18 [main] INFO  Display.Main - Кінець програми
+2024-11-24 18:10:53 [main] ERROR Display.Main - Test email
+java.lang.RuntimeException: SMTP Test Exception
+	at Display.Main.main(Main.java:20)
+2024-11-24 18:10:54 [main] INFO  Display.Main - Початок програми
+2024-11-24 18:11:00 [main] INFO  Display.Main - Кінець програми
+2024-11-24 18:12:31 [main] ERROR Display.Main - Test email
+java.lang.RuntimeException: SMTP Test Exception
+	at Display.Main.main(Main.java:20)
+2024-11-24 18:12:31 [main] INFO  Display.Main - Початок програми
+2024-11-24 18:12:35 [main] INFO  Display.Main - Кінець програми
+2024-11-27 03:09:08 [main] ERROR Display.Main - Test email
+java.lang.RuntimeException: SMTP Test Exception
+	at Display.Main.main(Main.java:20)
+2024-11-27 03:09:08 [main] INFO  Display.Main - Початок програми
+2024-11-27 03:20:10 [main] INFO  Commands.SortVegetablesCommand - Салат відсортовано по калорійності і виведено в консоль.
+2024-11-27 03:20:34 [main] INFO  Commands.SortVegetablesCommand - Салат відсортовано по калорійності і виведено в консоль.
+2024-11-27 03:22:34 [main] ERROR Display.Main - Test email
+java.lang.RuntimeException: SMTP Test Exception
+	at Display.Main.main(Main.java:20)
+2024-11-27 03:22:34 [main] INFO  Display.Main - Початок програми
+2024-11-27 03:22:49 [main] INFO  Commands.SortVegetablesCommand - Салат відсортовано по калорійності і виведено в консоль.
+2024-11-27 09:16:37 [main] ERROR Display.Main - Test email
+java.lang.RuntimeException: SMTP Test Exception
+	at Display.Main.main(Main.java:20)
+2024-11-27 09:16:37 [main] INFO  Display.Main - Початок програми
+2024-11-27 09:16:47 [main] INFO  Display.Main - Кінець програми
+2024-11-27 09:16:59 [main] ERROR Display.Main - Test email
+java.lang.RuntimeException: SMTP Test Exception
+	at Display.Main.main(Main.java:20)
+2024-11-27 09:16:59 [main] INFO  Display.Main - Початок програми
+2024-11-27 09:17:07 [main] INFO  Display.Main - Кінець програми
+2024-11-27 09:17:30 [main] ERROR Display.Main - Test email
+java.lang.RuntimeException: SMTP Test Exception
+	at Display.Main.main(Main.java:20)
+2024-11-27 09:17:30 [main] INFO  Display.Main - Початок програми
+2024-11-27 11:50:13 [main] ERROR Display.Main - Test email
+java.lang.RuntimeException: SMTP Test Exception
+	at Display.Main.main(Main.java:21)
+2024-11-27 11:50:13 [main] INFO  Display.Main - Початок програми
+2024-11-27 11:50:18 [main] INFO  Display.Main - Кінець програми
+2024-11-27 11:50:42 [main] ERROR Display.Main - Test email
+java.lang.RuntimeException: SMTP Test Exception
+	at Display.Main.main(Main.java:20)
+2024-11-27 11:50:42 [main] INFO  Display.Main - Початок програми
+2024-11-27 11:50:49 [main] INFO  Display.Main - Кінець програми
+2024-11-27 11:51:56 [main] ERROR Display.Main - Test email
+java.lang.RuntimeException: SMTP Test Exception
+	at Display.Main.main(Main.java:20)
+2024-11-27 11:51:56 [main] INFO  Display.Main - Початок програми
+2024-11-27 11:52:03 [main] INFO  Display.Main - Кінець програми
+2024-11-27 11:52:22 [main] ERROR Display.Main - Test email
+java.lang.RuntimeException: SMTP Test Exception
+	at Display.Main.main(Main.java:20)
+2024-11-27 11:52:22 [main] INFO  Display.Main - Початок програми
+2024-11-27 11:52:28 [main] INFO  Display.Main - Кінець програми
+2024-11-27 11:52:48 [main] ERROR Display.Main - Test email
+java.lang.RuntimeException: SMTP Test Exception
+	at Display.Main.main(Main.java:20)
+2024-11-27 11:52:48 [main] INFO  Display.Main - Початок програми
+2024-11-27 11:52:52 [main] INFO  Display.Main - Кінець програми
+2024-11-27 11:53:15 [main] ERROR Display.Main - Test email
+java.lang.RuntimeException: SMTP Test Exception
+	at Display.Main.main(Main.java:20)
+2024-11-27 11:53:15 [main] INFO  Display.Main - Початок програми
+2024-11-27 11:53:21 [main] INFO  Display.Main - Кінець програми
+2024-11-27 11:56:25 [main] ERROR Display.Main - Test email
+java.lang.RuntimeException: SMTP Test Exception
+	at Display.Main.main(Main.java:20)
+2024-11-27 11:56:25 [main] INFO  Display.Main - Початок програми
+2024-11-27 11:56:45 [main] ERROR Display.Main - Test email
+java.lang.RuntimeException: SMTP Test Exception
+	at Display.Main.main(Main.java:20)
+2024-11-27 11:56:45 [main] INFO  Display.Main - Початок програми
+2024-11-27 11:56:48 [main] INFO  Display.Main - Кінець програми
+2024-11-27 11:57:48 [main] ERROR Display.Main - Test email
+java.lang.RuntimeException: SMTP Test Exception
+	at Display.Main.main(Main.java:20)
+2024-11-27 11:57:48 [main] INFO  Display.Main - Початок програми
+2024-11-27 11:57:52 [main] INFO  Display.Main - Кінець програми
+2024-11-27 12:13:21 [main] ERROR Display.Main - Test email
+java.lang.RuntimeException: SMTP Test Exception
+	at Display.Main.main(Main.java:21)
+2024-11-27 12:13:21 [main] INFO  Display.Main - Початок програми
+2024-11-27 12:13:29 [main] INFO  Display.Main - Кінець програми
